@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { Page } from \"./Page\";","map":{"version":3,"sources":["/Users/juliancanderson/Documents/Projects/SoftwareEngineering/Advanced-React/sick-fits/frontend/components/index.js"],"names":["Page"],"mappings":"AAAA,SAASA,IAAT","sourcesContent":["export { Page } from \"./Page\";\n"]},"metadata":{},"sourceType":"module"}
